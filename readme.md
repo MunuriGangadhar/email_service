@@ -16,7 +16,7 @@ A robust email delivery service built with **TypeScript** that includes:
    ```bash
    git clone https://github.com/your-username/email-service.git
    cd email-service
-````
+
 
 2. **Install dependencies**
 
